@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="container">
       <div className={`content ${visible ? "show" : ""}`}>
-        <h1>SettlEEzy</h1>
+        <h1>Settleezy</h1>
         <p className="tagline">Move Smart. Settle Easy.</p>
 
         <h2>Coming Soon 🚀</h2>
